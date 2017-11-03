@@ -1,2 +1,2 @@
-# HR_Analysis
-A data mining project about why employee leave their work
+# HR_Analytics
+A data mining project which analysis why employees leave their work
