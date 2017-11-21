@@ -1,0 +1,16 @@
+=== Run information ===
+
+Scheme:       weka.associations.FilteredAssociator -F "weka.filters.MultiFilter -F \"weka.filters.unsupervised.attribute.ReplaceMissingValues \"" -c -1 -W weka.associations.Apriori -- -N 10 -T 0 -C 0.9 -D 0.05 -U 1.0 -M 0.1 -S -1.0 -c -1
+Relation:     HR_comma_sep
+Instances:    14999
+Attributes:   10
+              satisfaction_level
+              last_evaluation
+              number_project
+              average_montly_hours
+              time_spend_company
+              Work_accident
+              left
+              promotion_last_5years
+              sales
+              salary
